@@ -11,6 +11,8 @@
 		"folder-red": { "iconPath": "./icons/folders/folder-red.svg" },
 		"folder-sky": { "iconPath": "./icons/folders/folder-sky.svg" },
 		"folder-yellow": { "iconPath": "./icons/folders/folder-yellow.svg" },
+		"folder-uploads": { "iconPath": "./icons/folders/folder-uploads.svg" },
+		"folder-husky": { "iconPath": "./icons/folders/folder-husky.svg" },
 
 		"folder-blue-outline": {
 			"iconPath": "./icons/folders/folder-blue-outline.svg"
@@ -365,6 +367,7 @@
 	"fileExtensions": {
 		"orval": "orval",
 		"nim": "nim",
+		"log": "log",
 		"f90": "fortran",
 		"f95": "fortran",
 		"f03": "fortran",
@@ -761,6 +764,7 @@
 		".orvalrc.json": "orval",
 		".orvalrc.ts": "orval",
 		".orvalrc.yaml": "orval",
+		".log.svg": "log",
 		".orvalrc.yml": "orval",
 		".gitlab-ci.yml": "gitlab",
 		"file.config": "gear",
@@ -1572,6 +1576,8 @@
 		"i18n": "folder-i18n",
 		"locales": "folder-i18n",
 		".venv": "folder-lock",
+		".husky": "folder-husky",
+		"uploads": "folder-uploads",
 		".gitlab": "folder-gitlab",
 		"auth": "folder-lock",
 		"core": "folder-core",

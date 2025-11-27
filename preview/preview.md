@@ -115,6 +115,7 @@ You can choose which icons to use from the [Library](https://www.figma.com/file/
 | folder-green-outline  | ![folder-green-outline](folders/folder-green-outline.png)   |
 | folder-helpers        | ![folder-helpers](folders/folder-helpers.png)               |
 | folder-hooks          | ![folder-hooks](folders/folder-hooks.png)                   |
+| folder-husky          | ![folder-husky](folders/folder-husky.png)                   |
 | folder-i18n           | ![folder-i18n](folders/folder-i18n.png)                     |
 | folder-images         | ![folder-images](folders/folder-images.png)                 |
 | folder-interceptors   | ![folder-interceptors](folders/folder-interceptors.png)     |
@@ -163,6 +164,7 @@ You can choose which icons to use from the [Library](https://www.figma.com/file/
 | folder-target         | ![folder-target](folders/folder-target.png)                 |
 | folder-tauri          | ![folder-tauri](folders/folder-tauri.png)                   |
 | folder-tina           | ![folder-tina](folders/folder-tina.png)                     |
+| folder-uploads        | ![folder-uploads](folders/folder-uploads.png)               |
 | folder-utils          | ![folder-utils](folders/folder-utils.png)                   |
 | folder-vercel         | ![folder-vercel](folders/folder-vercel.png)                 |
 | folder-vscode         | ![folder-vscode](folders/folder-vscode.png)                 |

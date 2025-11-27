@@ -1,8 +1,8 @@
 {
-	"name": "symbols",
-	"displayName": "Symbols",
-	"description": "A simple file icon theme for VS Code",
-	"version": "0.0.25",
+	"name": "abbas-symbols",
+	"displayName": "@3bbas/Symbols",
+	"description": "A simple file icon theme for VS Code, forked from https://github.com/miguelsolorio/vscode-symbols",
+	"version": "0.0.26",
 	"publisher": "miguelsolorio",
 	"icon": "symbols.png",
 	"preview": true,
@@ -26,10 +26,10 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/miguelsolorio/vscode-symbols.git"
+		"url": "https://github.com/3bbaas/my-vscode-symbols.git"
 	},
 	"bugs": {
-		"url": "https://github.com/miguelsolorio/vscode-symbols/issues"
+		"url": "https://github.com/3bbaas/my-vscode-symbols/issues"
 	},
 	"author": {
 		"name": "Miguel Solorio"
